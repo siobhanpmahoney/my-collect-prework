@@ -7,5 +7,3 @@ def my_collect(arg)
   end
   new_array
 end
-
-
